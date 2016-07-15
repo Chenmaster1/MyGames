@@ -1,0 +1,14 @@
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\bin\Debug\MyGames.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\bin\Debug\MyGames.exe
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\bin\Debug\MyGames.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MainWindow.g.cs
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\App.g.cs
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames_MarkupCompile.cache
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames_MarkupCompile.lref
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MainWindow.baml
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames.g.resources
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames.exe
+c:\users\kevin\documents\visual studio 2015\Projects\MyGames\MyGames\obj\Debug\MyGames.pdb
